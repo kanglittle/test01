@@ -4,4 +4,5 @@ num3_zs = 30
 
 num4_m = 40
 
+num6_z = 60
 dev_manager = 50
