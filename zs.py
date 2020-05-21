@@ -9,4 +9,5 @@ dev_manager = 50
 
 dev_manager02 = 70
 
+zhangsan = 90
 dev_manager02_1 = 80
