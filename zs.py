@@ -6,3 +6,5 @@ num4_m = 40
 
 num6_z = 60
 dev_manager = 50
+
+dev_manager02 = 70
